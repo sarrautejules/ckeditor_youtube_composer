@@ -1,0 +1,10 @@
+{
+    "name": "sarrautejules/ckeditor_youtube_composer",
+    "description": "ckeditor youtube for composer",
+    "type": "drupal-library",
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
